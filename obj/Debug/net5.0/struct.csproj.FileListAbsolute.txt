@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\struct\bin\Debug\net5.0\struct.exe
+D:\yazılım\pratikler\struct\bin\Debug\net5.0\struct.deps.json
+D:\yazılım\pratikler\struct\bin\Debug\net5.0\struct.runtimeconfig.json
+D:\yazılım\pratikler\struct\bin\Debug\net5.0\struct.runtimeconfig.dev.json
+D:\yazılım\pratikler\struct\bin\Debug\net5.0\struct.dll
+D:\yazılım\pratikler\struct\bin\Debug\net5.0\ref\struct.dll
+D:\yazılım\pratikler\struct\bin\Debug\net5.0\struct.pdb
+D:\yazılım\pratikler\struct\obj\Debug\net5.0\struct.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\struct\obj\Debug\net5.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\struct\obj\Debug\net5.0\struct.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\struct\obj\Debug\net5.0\struct.AssemblyInfo.cs
+D:\yazılım\pratikler\struct\obj\Debug\net5.0\struct.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\struct\obj\Debug\net5.0\struct.dll
+D:\yazılım\pratikler\struct\obj\Debug\net5.0\ref\struct.dll
+D:\yazılım\pratikler\struct\obj\Debug\net5.0\struct.pdb
+D:\yazılım\pratikler\struct\obj\Debug\net5.0\struct.genruntimeconfig.cache
